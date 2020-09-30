@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /*This font list goes through the list from start to finish to what your browser can display*/
+}
+h1 {
+  font-size: 92px;
+  font-family: comic;
+}
+
+h2 {
+}
+
+p {
+  font-family: Arial;
+}
+/*Hi new programmer this portion makes all classes titled "redText" red */
+.redText {
+  color: blue;
+}
+
+#greenText {
+  color: green;
+}
